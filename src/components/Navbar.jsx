@@ -27,7 +27,7 @@ const Navbar = () => {
 
         {/* Desktop Navigation */}
         <div className="nav-menu">
-          <Link to="/" className="nav-link">Home</Link>
+          <Link to="/" className="nav-link">Market Place</Link>
           <Link to="/categories/rings" className="nav-link">Rings</Link>
           <Link to="/categories/necklaces" className="nav-link">Necklaces</Link>
           <Link to="/categories/earrings" className="nav-link">Earrings</Link>
@@ -76,7 +76,7 @@ const Navbar = () => {
       {/* Mobile Menu */}
       {isMobileMenuOpen && (
         <div className="mobile-menu">
-          <Link to="/" className="mobile-nav-link">Home</Link>
+          <Link to="/" className="mobile-nav-link">Market Place</Link>
           <Link to="/categories/rings" className="mobile-nav-link">Rings</Link>
           <Link to="/categories/necklaces" className="mobile-nav-link">Necklaces</Link>
           <Link to="/categories/earrings" className="mobile-nav-link">Earrings</Link>

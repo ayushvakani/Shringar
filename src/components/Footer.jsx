@@ -18,12 +18,7 @@ const Footer = () => {
               Discover exquisite jewelry from trusted sellers worldwide. 
               Try before you buy with our revolutionary AR technology.
             </p>
-            <div className="social-links">
-              <a href="#" className="social-link" aria-label="Facebook">📘</a>
-              <a href="#" className="social-link" aria-label="Instagram">📷</a>
-              <a href="#" className="social-link" aria-label="Twitter">🐦</a>
-              <a href="#" className="social-link" aria-label="Pinterest">📌</a>
-            </div>
+          
           </div>
 
           {/* Quick Links */}
